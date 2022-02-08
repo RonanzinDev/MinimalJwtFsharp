@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbvbcGe8UZed7bqVhHKQeLvFEH20+GN82kg84WKEsdgXi9uMGJaT4LoN/ohvg35XOW5YKY3+EIinxZInNpyBjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronan\\Desktop\\Prog\\fsharp\\MinimalJwt\\MinimalJwt.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronan\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
